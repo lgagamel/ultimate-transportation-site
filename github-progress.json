@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T09:18:13.931259+00:00",
+  "generated_at": "2026-10-26T09:52:40.003603+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "57e2518f4c2a21518c14951ccedca52069f258ea",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/57e2518f4c2a21518c14951ccedca52069f258ea",
+      "commit": {
+        "message": "Publish bounded verified static observation partitions (#29)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T09:51:51Z"
+        }
+      }
+    },
     {
       "sha": "42befc286de1b687a5367e95facf883987e75ea1",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/42befc286de1b687a5367e95facf883987e75ea1",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T07:42:51Z"
-        }
-      }
-    },
-    {
-      "sha": "f6601ef99cb56ae72408dc16b915e778760e4836",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/f6601ef99cb56ae72408dc16b915e778760e4836",
-      "commit": {
-        "message": "feat: review future source years and protect historical model inputs (#24)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T06:29:52Z"
         }
       }
     }
