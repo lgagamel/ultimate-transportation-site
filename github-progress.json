@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T06:20:28.369468+00:00",
+  "generated_at": "2026-10-26T06:30:26.181213+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "f6601ef99cb56ae72408dc16b915e778760e4836",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/f6601ef99cb56ae72408dc16b915e778760e4836",
+      "commit": {
+        "message": "feat: review future source years and protect historical model inputs (#24)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T06:29:52Z"
+        }
+      }
+    },
     {
       "sha": "7a51ef62dc5503666d1ef2f8be5a07585eb37483",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/7a51ef62dc5503666d1ef2f8be5a07585eb37483",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T05:50:46Z"
-        }
-      }
-    },
-    {
-      "sha": "2a2e083ab8ef2d884621489d3a14dcbaa833865f",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2a2e083ab8ef2d884621489d3a14dcbaa833865f",
-      "commit": {
-        "message": "fix: keep archive navigation out of observation filters (#19)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T05:42:51Z"
         }
       }
     }
