@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T08:25:22.401061+00:00",
+  "generated_at": "2026-10-26T09:05:17.693505+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "816f7488b32f71cd8764d4a51bcb3025dd7edbe6",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/816f7488b32f71cd8764d4a51bcb3025dd7edbe6",
+      "commit": {
+        "message": "Add calendar-aligned monthly and YTD road analysis (#27)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T09:04:25Z"
+        }
+      }
+    },
     {
       "sha": "c1b484be225e34e37907998c71ee151b4c16a89a",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c1b484be225e34e37907998c71ee151b4c16a89a",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T06:19:48Z"
-        }
-      }
-    },
-    {
-      "sha": "1fd8d216068450560298abf47db92c8f0dd29c13",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1fd8d216068450560298abf47db92c8f0dd29c13",
-      "commit": {
-        "message": "feat: compare archived workplace job residence profiles (#22)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T06:14:27Z"
         }
       }
     }
