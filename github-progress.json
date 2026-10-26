@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T06:15:01.443766+00:00",
+  "generated_at": "2026-10-26T06:20:28.369468+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "7a51ef62dc5503666d1ef2f8be5a07585eb37483",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/7a51ef62dc5503666d1ef2f8be5a07585eb37483",
+      "commit": {
+        "message": "feat: separate source collection health from worker heartbeat (#23)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T06:19:48Z"
+        }
+      }
+    },
     {
       "sha": "1fd8d216068450560298abf47db92c8f0dd29c13",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1fd8d216068450560298abf47db92c8f0dd29c13",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T05:42:51Z"
-        }
-      }
-    },
-    {
-      "sha": "8d468f013be09d3d002cda61b90aa93b522149f6",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/8d468f013be09d3d002cda61b90aa93b522149f6",
-      "commit": {
-        "message": "feat: backtest population trend forecasts against held-out history (#18)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T05:17:22Z"
         }
       }
     }
