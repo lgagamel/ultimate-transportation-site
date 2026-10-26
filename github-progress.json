@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T05:17:51.967727+00:00",
+  "generated_at": "2026-10-26T05:43:25.540608+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "2a2e083ab8ef2d884621489d3a14dcbaa833865f",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2a2e083ab8ef2d884621489d3a14dcbaa833865f",
+      "commit": {
+        "message": "fix: keep archive navigation out of observation filters (#19)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T05:42:51Z"
+        }
+      }
+    },
     {
       "sha": "8d468f013be09d3d002cda61b90aa93b522149f6",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/8d468f013be09d3d002cda61b90aa93b522149f6",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T05:05:42Z"
-        }
-      }
-    },
-    {
-      "sha": "c2a5528e9dc243129cffd7f743ae3b24aad7f782",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c2a5528e9dc243129cffd7f743ae3b24aad7f782",
-      "commit": {
-        "message": "feat: expose versioned Census geography relationships and tract navigation (#14)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T04:32:19Z"
         }
       }
     }
