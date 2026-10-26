@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T04:19:06.374896+00:00",
+  "generated_at": "2026-10-26T04:32:51.219964+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "c2a5528e9dc243129cffd7f743ae3b24aad7f782",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c2a5528e9dc243129cffd7f743ae3b24aad7f782",
+      "commit": {
+        "message": "feat: expose versioned Census geography relationships and tract navigation (#14)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T04:32:19Z"
+        }
+      }
+    },
     {
       "sha": "ff455947f0d96ff8d5f936726b351e40442f8ada",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/ff455947f0d96ff8d5f936726b351e40442f8ada",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T03:03:45Z"
-        }
-      }
-    },
-    {
-      "sha": "a8c2540556fc75d18ddd95e4297c1a432ecc1ce1",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/a8c2540556fc75d18ddd95e4297c1a432ecc1ce1",
-      "commit": {
-        "message": "feat: add verified no-overwrite SQLite online backups (#9)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T02:29:23Z"
         }
       }
     }
