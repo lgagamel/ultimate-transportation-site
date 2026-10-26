@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T19:42:46.124169+00:00",
+  "generated_at": "2026-10-26T19:56:35.351374+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "0fe4f5b0127a0028dbd2fc80105a9e72144b1a74",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/0fe4f5b0127a0028dbd2fc80105a9e72144b1a74",
+      "commit": {
+        "message": "Compare historical road months with complete prior-year reference windows (#46)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T19:55:21Z"
+        }
+      }
+    },
     {
       "sha": "c746cfd9bddc1364535826d4ad05bf10d02f96f0",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c746cfd9bddc1364535826d4ad05bf10d02f96f0",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T17:39:30Z"
-        }
-      }
-    },
-    {
-      "sha": "d30dd133e197643693bae14957de14b2a0534ca4",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d30dd133e197643693bae14957de14b2a0534ca4",
-      "commit": {
-        "message": "Add archive-conditioned residence county job destination profiles (#41)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T17:17:57Z"
         }
       }
     }
