@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T02:29:49.885016+00:00",
+  "generated_at": "2026-10-26T03:04:12.426409+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "6c93c0fea8b400aceb3f4403e4fa0e45d1f9bd66",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/6c93c0fea8b400aceb3f4403e4fa0e45d1f9bd66",
+      "commit": {
+        "message": "feat: publish historical monthly road activity and population context (#10)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T03:03:45Z"
+        }
+      }
+    },
     {
       "sha": "a8c2540556fc75d18ddd95e4297c1a432ecc1ce1",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/a8c2540556fc75d18ddd95e4297c1a432ecc1ce1",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T02:13:11Z"
-        }
-      }
-    },
-    {
-      "sha": "60861f0606d4f74cb60b56c354c0d72a9282696d",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/60861f0606d4f74cb60b56c354c0d72a9282696d",
-      "commit": {
-        "message": "feat: expose per-source retrieval freshness with explicit time basis (#5)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T01:31:19Z"
         }
       }
     }
