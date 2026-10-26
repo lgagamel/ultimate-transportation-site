@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T01:19:21.782586+00:00",
+  "generated_at": "2026-10-26T01:31:43.203091+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "60861f0606d4f74cb60b56c354c0d72a9282696d",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/60861f0606d4f74cb60b56c354c0d72a9282696d",
+      "commit": {
+        "message": "feat: expose per-source retrieval freshness with explicit time basis (#5)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T01:31:19Z"
+        }
+      }
+    },
     {
       "sha": "c430682f85fc6b529e2dc6cf614256de5df631d3",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c430682f85fc6b529e2dc6cf614256de5df631d3",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T00:48:07Z"
-        }
-      }
-    },
-    {
-      "sha": "ca7b491dc15049329ed3120a44756262c431d086",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/ca7b491dc15049329ed3120a44756262c431d086",
-      "commit": {
-        "message": "fix: fail closed on paid coding until budget enforcement is verified",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T00:41:38Z"
         }
       }
     }
