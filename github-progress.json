@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T00:30:59.091193+00:00",
+  "generated_at": "2026-10-26T00:42:03.137332+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "ca7b491dc15049329ed3120a44756262c431d086",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/ca7b491dc15049329ed3120a44756262c431d086",
+      "commit": {
+        "message": "fix: fail closed on paid coding until budget enforcement is verified",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T00:41:38Z"
+        }
+      }
+    },
     {
       "sha": "10634ecd940743cb24832e7071925a63e1f818a2",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/10634ecd940743cb24832e7071925a63e1f818a2",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-25T19:55:20Z"
-        }
-      }
-    },
-    {
-      "sha": "c2c4283bed53b3b3af341baa3cea4427c6f272cf",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c2c4283bed53b3b3af341baa3cea4427c6f272cf",
-      "commit": {
-        "message": "fix: retain continuous development cycle reports in Actions artifacts",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-25T18:28:55Z"
         }
       }
     }
