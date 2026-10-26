@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T05:43:25.540608+00:00",
+  "generated_at": "2026-10-26T05:51:24.431097+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "d7d862eccdc431238e05456afc1eecde46f1f61f",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d7d862eccdc431238e05456afc1eecde46f1f61f",
+      "commit": {
+        "message": "feat: explore historical Maryland workplace job origin-destination data (#20)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T05:50:46Z"
+        }
+      }
+    },
     {
       "sha": "2a2e083ab8ef2d884621489d3a14dcbaa833865f",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2a2e083ab8ef2d884621489d3a14dcbaa833865f",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T05:07:52Z"
-        }
-      }
-    },
-    {
-      "sha": "11ca5ab80b6d0ebed065fc1cec5f8a4ae2721861",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/11ca5ab80b6d0ebed065fc1cec5f8a4ae2721861",
-      "commit": {
-        "message": "feat: publish undated station location assets with original metadata (#15)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T05:05:42Z"
         }
       }
     }
