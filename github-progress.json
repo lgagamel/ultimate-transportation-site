@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T00:27:28.487198+00:00",
+  "generated_at": "2026-10-26T00:30:59.091193+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "10634ecd940743cb24832e7071925a63e1f818a2",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/10634ecd940743cb24832e7071925a63e1f818a2",
+      "commit": {
+        "message": "feat: show observed source-year coverage on dataset cards (#1)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T00:30:32Z"
+        }
+      }
+    },
     {
       "sha": "674a6d2ca1e6bf9d62f6dceee78ebae833cb8f41",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/674a6d2ca1e6bf9d62f6dceee78ebae833cb8f41",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-25T18:28:55Z"
-        }
-      }
-    },
-    {
-      "sha": "b5e2ca3c189c43a390885b5a635f740fee934bf2",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/b5e2ca3c189c43a390885b5a635f740fee934bf2",
-      "commit": {
-        "message": "feat: automate ongoing development and publish latest GitHub Pages build",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-25T18:25:45Z"
         }
       }
     }
