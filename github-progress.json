@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T10:04:12.463445+00:00",
+  "generated_at": "2026-10-26T10:34:04.714978+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "93b49c1bf0be1b62657ade91f71c799392ec854e",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/93b49c1bf0be1b62657ade91f71c799392ec854e",
+      "commit": {
+        "message": "Add separate historical Virginia workplace job archive (#31)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T10:33:00Z"
+        }
+      }
+    },
     {
       "sha": "788be5814710b747b89c47176ed7e14d2df74306",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/788be5814710b747b89c47176ed7e14d2df74306",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T09:04:25Z"
-        }
-      }
-    },
-    {
-      "sha": "c1b484be225e34e37907998c71ee151b4c16a89a",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c1b484be225e34e37907998c71ee151b4c16a89a",
-      "commit": {
-        "message": "feat: restore pinned job pair selections from shareable links (#26)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T08:24:45Z"
         }
       }
     }
