@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T13:40:13.242550+00:00",
+  "generated_at": "2026-10-26T14:07:44.727747+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "59bbd07e5e993fbe53eab68315f81c2bd755bd2f",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/59bbd07e5e993fbe53eab68315f81c2bd755bd2f",
+      "commit": {
+        "message": "Make commuting shortlist estimates discoverable on mobile (#37)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T14:06:37Z"
+        }
+      }
+    },
     {
       "sha": "1d469ce1854e6244afdf06587f57e8734f1987db",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1d469ce1854e6244afdf06587f57e8734f1987db",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T12:03:59Z"
-        }
-      }
-    },
-    {
-      "sha": "7ee97e6b106a35af9ad06faae1e9d89d47021121",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/7ee97e6b106a35af9ad06faae1e9d89d47021121",
-      "commit": {
-        "message": "Lazy-load complete datasets for each website view (#32)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T11:33:20Z"
         }
       }
     }
