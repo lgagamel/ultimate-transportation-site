@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T01:09:29.233751+00:00",
+  "generated_at": "2026-10-26T01:19:21.782586+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "c430682f85fc6b529e2dc6cf614256de5df631d3",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c430682f85fc6b529e2dc6cf614256de5df631d3",
+      "commit": {
+        "message": "fix: distinguish checks-only cycles from model execution in progress reports (#4)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T01:18:54Z"
+        }
+      }
+    },
     {
       "sha": "6fcca85a03fa8ad55906e5edb20445aba8cf467b",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/6fcca85a03fa8ad55906e5edb20445aba8cf467b",
@@ -49,17 +60,6 @@
           "date": "2026-10-26T00:41:38Z"
         }
       }
-    },
-    {
-      "sha": "10634ecd940743cb24832e7071925a63e1f818a2",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/10634ecd940743cb24832e7071925a63e1f818a2",
-      "commit": {
-        "message": "feat: show observed source-year coverage on dataset cards (#1)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T00:30:32Z"
-        }
-      }
     }
   ],
   "development_runs": [
@@ -72,7 +72,12 @@
       "updated_at": "2026-10-26T00:45:15Z",
       "head_sha": "ca7b491dc15049329ed3120a44756262c431d086",
       "display_title": "Continuous development",
-      "name": "Continuous development"
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "skipped",
+        "checks_conclusion": "success"
+      }
     },
     {
       "id": 40250713911,
@@ -83,7 +88,12 @@
       "updated_at": "2026-10-26T00:43:56Z",
       "head_sha": "ca7b491dc15049329ed3120a44756262c431d086",
       "display_title": "Continuous development",
-      "name": "Continuous development"
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "skipped",
+        "checks_conclusion": "success"
+      }
     },
     {
       "id": 40248729320,
@@ -94,7 +104,12 @@
       "updated_at": "2026-10-26T00:20:54Z",
       "head_sha": "51a84fd2a8ffa67eb014467380e2c2595808b09d",
       "display_title": "Continuous development",
-      "name": "Continuous development"
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "success",
+        "checks_conclusion": "skipped"
+      }
     },
     {
       "id": 40234565780,
@@ -105,7 +120,12 @@
       "updated_at": "2026-10-25T21:15:10Z",
       "head_sha": "2fbaad984faf5e26629c5d30614a526a0fc4e1cd",
       "display_title": "Continuous development",
-      "name": "Continuous development"
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "skipped",
+        "checks_conclusion": "success"
+      }
     },
     {
       "id": 40221447468,
@@ -116,7 +136,12 @@
       "updated_at": "2026-10-25T18:29:27Z",
       "head_sha": "c2c4283bed53b3b3af341baa3cea4427c6f272cf",
       "display_title": "Continuous development",
-      "name": "Continuous development"
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "skipped",
+        "checks_conclusion": "success"
+      }
     }
   ]
 }
