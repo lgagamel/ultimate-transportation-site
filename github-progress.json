@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T06:30:26.181213+00:00",
+  "generated_at": "2026-10-26T07:43:27.360251+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "a820b41c13327b0fa1c9399038e6aa1f926afb10",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/a820b41c13327b0fa1c9399038e6aa1f926afb10",
+      "commit": {
+        "message": "feat: add separate District of Columbia workplace job OD coverage (#25)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T07:42:51Z"
+        }
+      }
+    },
     {
       "sha": "f6601ef99cb56ae72408dc16b915e778760e4836",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/f6601ef99cb56ae72408dc16b915e778760e4836",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T05:54:44Z"
-        }
-      }
-    },
-    {
-      "sha": "d7d862eccdc431238e05456afc1eecde46f1f61f",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d7d862eccdc431238e05456afc1eecde46f1f61f",
-      "commit": {
-        "message": "feat: explore historical Maryland workplace job origin-destination data (#20)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T05:50:46Z"
         }
       }
     }
