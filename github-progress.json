@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T21:38:12.988430+00:00",
+  "generated_at": "2026-10-26T21:57:21.846248+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "1a1afbaf8089edebff7497de09d2504162ae364a",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1a1afbaf8089edebff7497de09d2504162ae364a",
+      "commit": {
+        "message": "Evaluate historical monthly road forecast baselines without look-ahead (#50)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T21:56:03Z"
+        }
+      }
+    },
     {
       "sha": "79789800da85b355e289171e6c55bf187baa9683",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/79789800da85b355e289171e6c55bf187baa9683",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T19:55:21Z"
-        }
-      }
-    },
-    {
-      "sha": "c746cfd9bddc1364535826d4ad05bf10d02f96f0",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/c746cfd9bddc1364535826d4ad05bf10d02f96f0",
-      "commit": {
-        "message": "Reject IPF mapping dependency cycles before seed expansion (#45)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T19:41:26Z"
         }
       }
     }
