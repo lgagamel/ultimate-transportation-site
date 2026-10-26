@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T13:26:47.654924+00:00",
+  "generated_at": "2026-10-26T13:40:13.242550+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "1d469ce1854e6244afdf06587f57e8734f1987db",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1d469ce1854e6244afdf06587f57e8734f1987db",
+      "commit": {
+        "message": "Find and compare block groups by published commuting patterns (#36)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T13:39:01Z"
+        }
+      }
+    },
     {
       "sha": "b7cb2035968c8de2a8d4cec35c002e866593394f",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/b7cb2035968c8de2a8d4cec35c002e866593394f",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T11:33:20Z"
-        }
-      }
-    },
-    {
-      "sha": "93b49c1bf0be1b62657ade91f71c799392ec854e",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/93b49c1bf0be1b62657ade91f71c799392ec854e",
-      "commit": {
-        "message": "Add separate historical Virginia workplace job archive (#31)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T10:33:00Z"
         }
       }
     }
