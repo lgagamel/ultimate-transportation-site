@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T19:04:04.623665+00:00",
+  "generated_at": "2026-10-26T19:18:43.550840+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "a22dba5413b9bb378baddce97af67a090d079775",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/a22dba5413b9bb378baddce97af67a090d079775",
+      "commit": {
+        "message": "Inspect mapped IPF control membership and export original seed support (#44)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T19:17:31Z"
+        }
+      }
+    },
     {
       "sha": "d22fd6aa62467a0bb869d4b800d2215d0e7ae5ee",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d22fd6aa62467a0bb869d4b800d2215d0e7ae5ee",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T16:31:35Z"
-        }
-      }
-    },
-    {
-      "sha": "9c153b06987e95f8aa3a6f6a037c06ab9d80c425",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/9c153b06987e95f8aa3a6f6a037c06ab9d80c425",
-      "commit": {
-        "message": "Add county resident age profiles with original Census margins (#39)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T16:20:43Z"
         }
       }
     }
