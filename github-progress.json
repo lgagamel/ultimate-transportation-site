@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T00:59:12.453111+00:00",
+  "generated_at": "2026-10-26T01:09:29.233751+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "6fcca85a03fa8ad55906e5edb20445aba8cf467b",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/6fcca85a03fa8ad55906e5edb20445aba8cf467b",
+      "commit": {
+        "message": "feat: expose observed annual missingness by geography and attributes (#3)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T01:09:02Z"
+        }
+      }
+    },
     {
       "sha": "fe797201bf7b21c6f331a965cca1cbcbe45dad07",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/fe797201bf7b21c6f331a965cca1cbcbe45dad07",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T00:30:32Z"
-        }
-      }
-    },
-    {
-      "sha": "674a6d2ca1e6bf9d62f6dceee78ebae833cb8f41",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/674a6d2ca1e6bf9d62f6dceee78ebae833cb8f41",
-      "commit": {
-        "message": "fix: align coding prompt with protected paths and include UI tests",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T00:27:01Z"
         }
       }
     }
