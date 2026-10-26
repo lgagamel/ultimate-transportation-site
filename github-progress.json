@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T05:08:21.951908+00:00",
+  "generated_at": "2026-10-26T05:11:41.482910+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "0d8462686ef765992c5a71eae45b820d863a703d",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/0d8462686ef765992c5a71eae45b820d863a703d",
+      "commit": {
+        "message": "feat: diagnose IPF control compatibility and unconstrained support (#17)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T05:11:12Z"
+        }
+      }
+    },
     {
       "sha": "4b69d212cc22012d2f052f8f4b2ccf36e7f7d6f9",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/4b69d212cc22012d2f052f8f4b2ccf36e7f7d6f9",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T04:18:39Z"
-        }
-      }
-    },
-    {
-      "sha": "65d38e8a8c1c64c789e3a5624f3a77b5f42908dc",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/65d38e8a8c1c64c789e3a5624f3a77b5f42908dc",
-      "commit": {
-        "message": "feat: add interactive complete-year road comparisons (#12)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T03:25:16Z"
         }
       }
     }
