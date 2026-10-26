@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T16:32:47.631013+00:00",
+  "generated_at": "2026-10-26T17:19:07.878405+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "d30dd133e197643693bae14957de14b2a0534ca4",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d30dd133e197643693bae14957de14b2a0534ca4",
+      "commit": {
+        "message": "Add archive-conditioned residence county job destination profiles (#41)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T17:17:57Z"
+        }
+      }
+    },
     {
       "sha": "f8e70bc4bb2e91dcfbd3fa5c515dc4e4f6642311",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/f8e70bc4bb2e91dcfbd3fa5c515dc4e4f6642311",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T14:06:37Z"
-        }
-      }
-    },
-    {
-      "sha": "1d469ce1854e6244afdf06587f57e8734f1987db",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1d469ce1854e6244afdf06587f57e8734f1987db",
-      "commit": {
-        "message": "Find and compare block groups by published commuting patterns (#36)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T13:39:01Z"
         }
       }
     }
