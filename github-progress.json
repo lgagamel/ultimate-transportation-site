@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T00:48:35.016338+00:00",
+  "generated_at": "2026-10-26T00:59:12.453111+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "fe797201bf7b21c6f331a965cca1cbcbe45dad07",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/fe797201bf7b21c6f331a965cca1cbcbe45dad07",
+      "commit": {
+        "message": "Preserve source fingerprints in observations and releases (#2)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T00:58:40Z"
+        }
+      }
+    },
     {
       "sha": "914137d3dcdc511529dd4a8e83665adfdef3e563",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/914137d3dcdc511529dd4a8e83665adfdef3e563",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T00:27:01Z"
-        }
-      }
-    },
-    {
-      "sha": "51a84fd2a8ffa67eb014467380e2c2595808b09d",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/51a84fd2a8ffa67eb014467380e2c2595808b09d",
-      "commit": {
-        "message": "feat: export IPF convergence diagnostics and record public site bootstrap",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-25T23:33:23Z"
         }
       }
     }
