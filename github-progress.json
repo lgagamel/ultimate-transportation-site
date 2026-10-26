@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T02:13:38.548162+00:00",
+  "generated_at": "2026-10-26T02:16:39.916824+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "d0bbfb503d0549deda160f5a5ff6ca33d9bf1f97",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d0bbfb503d0549deda160f5a5ff6ca33d9bf1f97",
+      "commit": {
+        "message": "feat: add consistent pagination headers to observation and CSV APIs (#7)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T02:16:10Z"
+        }
+      }
+    },
     {
       "sha": "1e5e2e320db198fee9132cbb89eab85c27858298",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1e5e2e320db198fee9132cbb89eab85c27858298",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T01:09:02Z"
-        }
-      }
-    },
-    {
-      "sha": "fe797201bf7b21c6f331a965cca1cbcbe45dad07",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/fe797201bf7b21c6f331a965cca1cbcbe45dad07",
-      "commit": {
-        "message": "Preserve source fingerprints in observations and releases (#2)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T00:58:40Z"
         }
       }
     }
