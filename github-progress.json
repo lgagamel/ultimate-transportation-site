@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T20:40:41.895494+00:00",
+  "generated_at": "2026-10-26T21:38:12.988430+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "79789800da85b355e289171e6c55bf187baa9683",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/79789800da85b355e289171e6c55bf187baa9683",
+      "commit": {
+        "message": "Add separately attributed county income and age source comparison (#49)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T21:36:58Z"
+        }
+      }
+    },
     {
       "sha": "1b1024e0c6367d955a640822e8e629e10ea24807",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1b1024e0c6367d955a640822e8e629e10ea24807",
@@ -49,20 +60,25 @@
           "date": "2026-10-26T19:41:26Z"
         }
       }
-    },
-    {
-      "sha": "a22dba5413b9bb378baddce97af67a090d079775",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/a22dba5413b9bb378baddce97af67a090d079775",
-      "commit": {
-        "message": "Inspect mapped IPF control membership and export original seed support (#44)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T19:17:31Z"
-        }
-      }
     }
   ],
   "development_runs": [
+    {
+      "id": 40402316228,
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40402316228",
+      "status": "completed",
+      "conclusion": "success",
+      "created_at": "2026-10-26T21:12:01Z",
+      "updated_at": "2026-10-26T21:12:51Z",
+      "head_sha": "1b1024e0c6367d955a640822e8e629e10ea24807",
+      "display_title": "Continuous development",
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "skipped",
+        "checks_conclusion": "success"
+      }
+    },
     {
       "id": 40349693600,
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40349693600",
@@ -125,22 +141,6 @@
         "coding_status": "completed",
         "coding_conclusion": "skipped",
         "checks_conclusion": "success"
-      }
-    },
-    {
-      "id": 40248729320,
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40248729320",
-      "status": "completed",
-      "conclusion": "failure",
-      "created_at": "2026-10-26T00:18:39Z",
-      "updated_at": "2026-10-26T00:20:54Z",
-      "head_sha": "51a84fd2a8ffa67eb014467380e2c2595808b09d",
-      "display_title": "Continuous development",
-      "name": "Continuous development",
-      "execution": {
-        "coding_status": "completed",
-        "coding_conclusion": "success",
-        "checks_conclusion": "skipped"
       }
     }
   ]
