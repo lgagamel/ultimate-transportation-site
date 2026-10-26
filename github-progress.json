@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T17:40:52.488423+00:00",
+  "generated_at": "2026-10-26T19:04:04.623665+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "d22fd6aa62467a0bb869d4b800d2215d0e7ae5ee",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d22fd6aa62467a0bb869d4b800d2215d0e7ae5ee",
+      "commit": {
+        "message": "Add strict source-aware IPF control inspection workspace (#43)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T19:02:43Z"
+        }
+      }
+    },
     {
       "sha": "96b97ddc8195e76661ba8c209bc9acb06b8abd2a",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/96b97ddc8195e76661ba8c209bc9acb06b8abd2a",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T16:20:43Z"
-        }
-      }
-    },
-    {
-      "sha": "085ed8d6ea92e128e8a3f5f257536c587342288f",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/085ed8d6ea92e128e8a3f5f257536c587342288f",
-      "commit": {
-        "message": "Add county household income with published margins and missing-cell coverage (#38)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T15:18:02Z"
         }
       }
     }
