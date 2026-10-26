@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T05:11:41.482910+00:00",
+  "generated_at": "2026-10-26T05:17:51.967727+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "8d468f013be09d3d002cda61b90aa93b522149f6",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/8d468f013be09d3d002cda61b90aa93b522149f6",
+      "commit": {
+        "message": "feat: backtest population trend forecasts against held-out history (#18)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T05:17:22Z"
+        }
+      }
+    },
     {
       "sha": "0d8462686ef765992c5a71eae45b820d863a703d",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/0d8462686ef765992c5a71eae45b820d863a703d",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T04:32:19Z"
-        }
-      }
-    },
-    {
-      "sha": "ff455947f0d96ff8d5f936726b351e40442f8ada",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/ff455947f0d96ff8d5f936726b351e40442f8ada",
-      "commit": {
-        "message": "feat: publish ACS block-group commuting estimates with uncertainty (#13)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T04:18:39Z"
         }
       }
     }
