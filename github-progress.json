@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T00:19:09.208955+00:00",
+  "generated_at": "2026-10-26T00:27:28.487198+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "674a6d2ca1e6bf9d62f6dceee78ebae833cb8f41",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/674a6d2ca1e6bf9d62f6dceee78ebae833cb8f41",
+      "commit": {
+        "message": "fix: align coding prompt with protected paths and include UI tests",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T00:27:01Z"
+        }
+      }
+    },
     {
       "sha": "51a84fd2a8ffa67eb014467380e2c2595808b09d",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/51a84fd2a8ffa67eb014467380e2c2595808b09d",
@@ -49,27 +60,16 @@
           "date": "2026-10-25T18:25:45Z"
         }
       }
-    },
-    {
-      "sha": "806d99ecbc993c832a2f50ec4e2e266a598c1536",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/806d99ecbc993c832a2f50ec4e2e266a598c1536",
-      "commit": {
-        "message": "feat: build continuous transportation data platform with spatial temporal IPF",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-25T18:04:19Z"
-        }
-      }
     }
   ],
   "development_runs": [
     {
       "id": 40248729320,
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40248729320",
-      "status": "in_progress",
-      "conclusion": null,
+      "status": "completed",
+      "conclusion": "failure",
       "created_at": "2026-10-26T00:18:39Z",
-      "updated_at": "2026-10-26T00:18:42Z",
+      "updated_at": "2026-10-26T00:20:54Z",
       "head_sha": "51a84fd2a8ffa67eb014467380e2c2595808b09d",
       "display_title": "Continuous development",
       "name": "Continuous development"
