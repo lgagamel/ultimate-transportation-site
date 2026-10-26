@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T10:34:04.714978+00:00",
+  "generated_at": "2026-10-26T11:34:20.239314+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "7ee97e6b106a35af9ad06faae1e9d89d47021121",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/7ee97e6b106a35af9ad06faae1e9d89d47021121",
+      "commit": {
+        "message": "Lazy-load complete datasets for each website view (#32)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T11:33:20Z"
+        }
+      }
+    },
     {
       "sha": "93b49c1bf0be1b62657ade91f71c799392ec854e",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/93b49c1bf0be1b62657ade91f71c799392ec854e",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T09:17:26Z"
-        }
-      }
-    },
-    {
-      "sha": "816f7488b32f71cd8764d4a51bcb3025dd7edbe6",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/816f7488b32f71cd8764d4a51bcb3025dd7edbe6",
-      "commit": {
-        "message": "Add calendar-aligned monthly and YTD road analysis (#27)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T09:04:25Z"
         }
       }
     }
