@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T03:25:46.400856+00:00",
+  "generated_at": "2026-10-26T04:19:06.374896+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "ff455947f0d96ff8d5f936726b351e40442f8ada",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/ff455947f0d96ff8d5f936726b351e40442f8ada",
+      "commit": {
+        "message": "feat: publish ACS block-group commuting estimates with uncertainty (#13)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T04:18:39Z"
+        }
+      }
+    },
     {
       "sha": "65d38e8a8c1c64c789e3a5624f3a77b5f42908dc",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/65d38e8a8c1c64c789e3a5624f3a77b5f42908dc",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T02:29:23Z"
-        }
-      }
-    },
-    {
-      "sha": "cf695561918f6d787ed03f3761b73aa9b8e41b39",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/cf695561918f6d787ed03f3761b73aa9b8e41b39",
-      "commit": {
-        "message": "feat: expose durable refresh schedule and accurate spending blockers (#8)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T02:23:11Z"
         }
       }
     }
