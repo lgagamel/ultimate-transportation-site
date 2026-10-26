@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T09:52:40.003603+00:00",
+  "generated_at": "2026-10-26T10:04:12.463445+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "788be5814710b747b89c47176ed7e14d2df74306",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/788be5814710b747b89c47176ed7e14d2df74306",
+      "commit": {
+        "message": "Reuse static archive parts across retrieval-only refreshes (#30)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T10:03:24Z"
+        }
+      }
+    },
     {
       "sha": "57e2518f4c2a21518c14951ccedca52069f258ea",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/57e2518f4c2a21518c14951ccedca52069f258ea",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T08:24:45Z"
-        }
-      }
-    },
-    {
-      "sha": "a820b41c13327b0fa1c9399038e6aa1f926afb10",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/a820b41c13327b0fa1c9399038e6aa1f926afb10",
-      "commit": {
-        "message": "feat: add separate District of Columbia workplace job OD coverage (#25)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T07:42:51Z"
         }
       }
     }
