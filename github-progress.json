@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T22:39:45.912806+00:00",
+  "generated_at": "2026-10-26T22:48:06.861390+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "3d36d4c41e762209f8302db32116fbf2a2629ba6",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/3d36d4c41e762209f8302db32116fbf2a2629ba6",
+      "commit": {
+        "message": "Filter historical road evaluation targets without truncating training (#51)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T22:46:50Z"
+        }
+      }
+    },
     {
       "sha": "1a1afbaf8089edebff7497de09d2504162ae364a",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1a1afbaf8089edebff7497de09d2504162ae364a",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T20:04:29Z"
-        }
-      }
-    },
-    {
-      "sha": "0fe4f5b0127a0028dbd2fc80105a9e72144b1a74",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/0fe4f5b0127a0028dbd2fc80105a9e72144b1a74",
-      "commit": {
-        "message": "Compare historical road months with complete prior-year reference windows (#46)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T19:55:21Z"
         }
       }
     }
