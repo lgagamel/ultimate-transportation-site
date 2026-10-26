@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T11:34:20.239314+00:00",
+  "generated_at": "2026-10-26T12:04:57.224157+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "1d09ecaa824966bb1d08ef6ecba41efe2b2e74a2",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1d09ecaa824966bb1d08ef6ecba41efe2b2e74a2",
+      "commit": {
+        "message": "Compress negotiated API responses without changing data contracts (#33)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T12:03:59Z"
+        }
+      }
+    },
     {
       "sha": "7ee97e6b106a35af9ad06faae1e9d89d47021121",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/7ee97e6b106a35af9ad06faae1e9d89d47021121",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T09:51:51Z"
-        }
-      }
-    },
-    {
-      "sha": "42befc286de1b687a5367e95facf883987e75ea1",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/42befc286de1b687a5367e95facf883987e75ea1",
-      "commit": {
-        "message": "Label job OD codes with separately pinned Census reference names (#28)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T09:17:26Z"
         }
       }
     }
