@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T02:16:39.916824+00:00",
+  "generated_at": "2026-10-26T02:23:46.690583+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "cf695561918f6d787ed03f3761b73aa9b8e41b39",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/cf695561918f6d787ed03f3761b73aa9b8e41b39",
+      "commit": {
+        "message": "feat: expose durable refresh schedule and accurate spending blockers (#8)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T02:23:11Z"
+        }
+      }
+    },
     {
       "sha": "d0bbfb503d0549deda160f5a5ff6ca33d9bf1f97",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/d0bbfb503d0549deda160f5a5ff6ca33d9bf1f97",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T01:18:54Z"
-        }
-      }
-    },
-    {
-      "sha": "6fcca85a03fa8ad55906e5edb20445aba8cf467b",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/6fcca85a03fa8ad55906e5edb20445aba8cf467b",
-      "commit": {
-        "message": "feat: expose observed annual missingness by geography and attributes (#3)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T01:09:02Z"
         }
       }
     }
