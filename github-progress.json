@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T01:31:43.203091+00:00",
+  "generated_at": "2026-10-26T02:13:38.548162+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "1e5e2e320db198fee9132cbb89eab85c27858298",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1e5e2e320db198fee9132cbb89eab85c27858298",
+      "commit": {
+        "message": "feat: prepare fail-closed single-request model budget client (#6)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T02:13:11Z"
+        }
+      }
+    },
     {
       "sha": "60861f0606d4f74cb60b56c354c0d72a9282696d",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/60861f0606d4f74cb60b56c354c0d72a9282696d",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T00:58:40Z"
-        }
-      }
-    },
-    {
-      "sha": "914137d3dcdc511529dd4a8e83665adfdef3e563",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/914137d3dcdc511529dd4a8e83665adfdef3e563",
-      "commit": {
-        "message": "feat: prepare durable one-dollar API budget accounting with paid calls gated",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T00:48:07Z"
         }
       }
     }
