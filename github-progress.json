@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T12:59:05.796010+00:00",
+  "generated_at": "2026-10-26T13:26:47.654924+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "b7cb2035968c8de2a8d4cec35c002e866593394f",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/b7cb2035968c8de2a8d4cec35c002e866593394f",
+      "commit": {
+        "message": "Expose the complete archived ACS commuting category hierarchy (#35)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T13:25:27Z"
+        }
+      }
+    },
     {
       "sha": "4fa4533eb5f7525a5c77a79f4d2aa97db2c36559",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/4fa4533eb5f7525a5c77a79f4d2aa97db2c36559",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T10:33:00Z"
-        }
-      }
-    },
-    {
-      "sha": "788be5814710b747b89c47176ed7e14d2df74306",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/788be5814710b747b89c47176ed7e14d2df74306",
-      "commit": {
-        "message": "Reuse static archive parts across retrieval-only refreshes (#30)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T10:03:24Z"
         }
       }
     }
