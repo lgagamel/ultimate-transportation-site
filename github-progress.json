@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T05:55:24.813347+00:00",
+  "generated_at": "2026-10-26T06:15:01.443766+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "1fd8d216068450560298abf47db92c8f0dd29c13",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1fd8d216068450560298abf47db92c8f0dd29c13",
+      "commit": {
+        "message": "feat: compare archived workplace job residence profiles (#22)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-26T06:14:27Z"
+        }
+      }
+    },
     {
       "sha": "3a59f2d830b6f3c44c40dfc8cd93cefb69f9b81d",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/3a59f2d830b6f3c44c40dfc8cd93cefb69f9b81d",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T05:17:22Z"
-        }
-      }
-    },
-    {
-      "sha": "0d8462686ef765992c5a71eae45b820d863a703d",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/0d8462686ef765992c5a71eae45b820d863a703d",
-      "commit": {
-        "message": "feat: diagnose IPF control compatibility and unconstrained support (#17)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T05:11:12Z"
         }
       }
     }
