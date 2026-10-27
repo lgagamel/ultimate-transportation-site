@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T07:27:14.597337+00:00",
+  "generated_at": "2026-10-27T08:44:27.425223+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "2b4dca70754a098a24537e020175479a1b7b1504",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2b4dca70754a098a24537e020175479a1b7b1504",
+      "commit": {
+        "message": "Add within-archive household availability point shortlist (#63)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T08:42:51Z"
+        }
+      }
+    },
     {
       "sha": "75138254cb79e4eda33f2dd6096d0c77625edc9c",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/75138254cb79e4eda33f2dd6096d0c77625edc9c",
@@ -49,20 +60,25 @@
           "date": "2026-10-27T05:00:06Z"
         }
       }
-    },
-    {
-      "sha": "69071cbd06302cd354d026401c79a63f5f44be1b",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/69071cbd06302cd354d026401c79a63f5f44be1b",
-      "commit": {
-        "message": "Add historical Washington household vehicle availability (#58)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T04:01:45Z"
-        }
-      }
     }
   ],
   "development_runs": [
+    {
+      "id": 40473070478,
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40473070478",
+      "status": "completed",
+      "conclusion": "success",
+      "created_at": "2026-10-27T08:22:40Z",
+      "updated_at": "2026-10-27T08:23:38Z",
+      "head_sha": "75138254cb79e4eda33f2dd6096d0c77625edc9c",
+      "display_title": "Continuous development",
+      "name": "Continuous development",
+      "execution": {
+        "coding_status": "completed",
+        "coding_conclusion": "skipped",
+        "checks_conclusion": "success"
+      }
+    },
     {
       "id": 40433645476,
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40433645476",
@@ -119,22 +135,6 @@
       "created_at": "2026-10-26T08:07:37Z",
       "updated_at": "2026-10-26T08:08:18Z",
       "head_sha": "a820b41c13327b0fa1c9399038e6aa1f926afb10",
-      "display_title": "Continuous development",
-      "name": "Continuous development",
-      "execution": {
-        "coding_status": "completed",
-        "coding_conclusion": "skipped",
-        "checks_conclusion": "success"
-      }
-    },
-    {
-      "id": 40250815385,
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/actions/runs/40250815385",
-      "status": "completed",
-      "conclusion": "success",
-      "created_at": "2026-10-26T00:44:36Z",
-      "updated_at": "2026-10-26T00:45:15Z",
-      "head_sha": "ca7b491dc15049329ed3120a44756262c431d086",
       "display_title": "Continuous development",
       "name": "Continuous development",
       "execution": {
