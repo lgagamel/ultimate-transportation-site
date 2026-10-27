@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T08:44:27.425223+00:00",
+  "generated_at": "2026-10-27T09:49:42.566394+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "472271c770ce90253ddb53aa2c3775bc28600a96",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/472271c770ce90253ddb53aa2c3775bc28600a96",
+      "commit": {
+        "message": "Inspect IPF temporal support without fitting source data (#64)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T09:47:51Z"
+        }
+      }
+    },
     {
       "sha": "2b4dca70754a098a24537e020175479a1b7b1504",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2b4dca70754a098a24537e020175479a1b7b1504",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T05:26:23Z"
-        }
-      }
-    },
-    {
-      "sha": "bbb1dc5860343f4aae230fd732a286823f19a6fb",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/bbb1dc5860343f4aae230fd732a286823f19a6fb",
-      "commit": {
-        "message": "Preserve reviewed airport source history after upstream drift (#59)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T05:00:06Z"
         }
       }
     }
