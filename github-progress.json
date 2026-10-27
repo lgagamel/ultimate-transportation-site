@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T09:49:42.566394+00:00",
+  "generated_at": "2026-10-27T11:01:43.344312+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "2c26e6929618f2c8be714b40dec9171d183b69c4",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2c26e6929618f2c8be714b40dec9171d183b69c4",
+      "commit": {
+        "message": "Profile historical road baseline errors by target calendar month (#65)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T10:59:46Z"
+        }
+      }
+    },
     {
       "sha": "472271c770ce90253ddb53aa2c3775bc28600a96",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/472271c770ce90253ddb53aa2c3775bc28600a96",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T06:27:40Z"
-        }
-      }
-    },
-    {
-      "sha": "daddc72aa8b788e07d59056d59aa777b0b45443f",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/daddc72aa8b788e07d59056d59aa777b0b45443f",
-      "commit": {
-        "message": "Compare historical household availability between reporting tracts (#60)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T05:26:23Z"
         }
       }
     }
