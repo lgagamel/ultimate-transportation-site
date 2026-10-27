@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T06:29:27.215118+00:00",
+  "generated_at": "2026-10-27T07:27:14.597337+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "75138254cb79e4eda33f2dd6096d0c77625edc9c",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/75138254cb79e4eda33f2dd6096d0c77625edc9c",
+      "commit": {
+        "message": "Add separate 2017\u20132021 Washington household vehicle archive (#62)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T07:25:37Z"
+        }
+      }
+    },
     {
       "sha": "598759badcadc7ff0597cba6ab8a0f25403baff6",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/598759badcadc7ff0597cba6ab8a0f25403baff6",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T04:01:45Z"
-        }
-      }
-    },
-    {
-      "sha": "9254a9b8dc4e3835ae74cdabf1c2bf690c96beb6",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/9254a9b8dc4e3835ae74cdabf1c2bf690c96beb6",
-      "commit": {
-        "message": "Gate website publication on exact-revision independent CI (#57)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T02:50:57Z"
         }
       }
     }
