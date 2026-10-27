@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T12:18:54.153074+00:00",
+  "generated_at": "2026-10-27T13:44:12.263749+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "86b1121adead376eccd51e332dd2b475f24e77de",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/86b1121adead376eccd51e332dd2b475f24e77de",
+      "commit": {
+        "message": "Pin reproducible rolling road reports to source and cutoff (#67)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T13:41:57Z"
+        }
+      }
+    },
     {
       "sha": "1a258bfe35e88d61fa8261487604da92785d512c",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1a258bfe35e88d61fa8261487604da92785d512c",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T08:42:51Z"
-        }
-      }
-    },
-    {
-      "sha": "75138254cb79e4eda33f2dd6096d0c77625edc9c",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/75138254cb79e4eda33f2dd6096d0c77625edc9c",
-      "commit": {
-        "message": "Add separate 2017\u20132021 Washington household vehicle archive (#62)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T07:25:37Z"
         }
       }
     }
