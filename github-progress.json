@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T23:55:27.584035+00:00",
+  "generated_at": "2026-10-27T00:38:58.475236+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "64dfd3a98bbf15b9c5269ab65fcd8599502ca43c",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/64dfd3a98bbf15b9c5269ab65fcd8599502ca43c",
+      "commit": {
+        "message": "Expose byte-matched versioned original source references (#53)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T00:37:38Z"
+        }
+      }
+    },
     {
       "sha": "701de1ee6d8a486e253b153613de9d2ea64008e7",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/701de1ee6d8a486e253b153613de9d2ea64008e7",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T21:36:58Z"
-        }
-      }
-    },
-    {
-      "sha": "1b1024e0c6367d955a640822e8e629e10ea24807",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1b1024e0c6367d955a640822e8e629e10ea24807",
-      "commit": {
-        "message": "Add calendar-aligned YTD road reference totals and complete provenance (#48)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T20:39:23Z"
         }
       }
     }
