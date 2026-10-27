@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T05:06:20.142268+00:00",
+  "generated_at": "2026-10-27T05:27:42.875575+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "daddc72aa8b788e07d59056d59aa777b0b45443f",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/daddc72aa8b788e07d59056d59aa777b0b45443f",
+      "commit": {
+        "message": "Compare historical household availability between reporting tracts (#60)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T05:26:23Z"
+        }
+      }
+    },
     {
       "sha": "bbb1dc5860343f4aae230fd732a286823f19a6fb",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/bbb1dc5860343f4aae230fd732a286823f19a6fb",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T02:24:06Z"
-        }
-      }
-    },
-    {
-      "sha": "71b4fcc671aa2c20acbbdce855dfb9176055a47e",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/71b4fcc671aa2c20acbbdce855dfb9176055a47e",
-      "commit": {
-        "message": "Share historical road comparisons with fixed years and source pins (#55)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T01:34:06Z"
         }
       }
     }
