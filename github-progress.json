@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T05:27:42.875575+00:00",
+  "generated_at": "2026-10-27T06:29:27.215118+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "598759badcadc7ff0597cba6ab8a0f25403baff6",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/598759badcadc7ff0597cba6ab8a0f25403baff6",
+      "commit": {
+        "message": "Add historical Washington tract household income archive (#61)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T06:27:40Z"
+        }
+      }
+    },
     {
       "sha": "daddc72aa8b788e07d59056d59aa777b0b45443f",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/daddc72aa8b788e07d59056d59aa777b0b45443f",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T02:50:57Z"
-        }
-      }
-    },
-    {
-      "sha": "2eb56cd014ece5c8809994600af4150894ff57b4",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2eb56cd014ece5c8809994600af4150894ff57b4",
-      "commit": {
-        "message": "Share reproducible source-pinned road-backtest selections (#56)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T02:24:06Z"
         }
       }
     }
