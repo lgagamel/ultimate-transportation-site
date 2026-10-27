@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T00:38:58.475236+00:00",
+  "generated_at": "2026-10-27T00:50:19.434375+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "27a4132a08e99902116d0849d09e9777e4c13b85",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/27a4132a08e99902116d0849d09e9777e4c13b85",
+      "commit": {
+        "message": "Load complete selected explorer datasets and clear stale filters (#54)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T00:48:55Z"
+        }
+      }
+    },
     {
       "sha": "64dfd3a98bbf15b9c5269ab65fcd8599502ca43c",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/64dfd3a98bbf15b9c5269ab65fcd8599502ca43c",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-26T21:56:03Z"
-        }
-      }
-    },
-    {
-      "sha": "79789800da85b355e289171e6c55bf187baa9683",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/79789800da85b355e289171e6c55bf187baa9683",
-      "commit": {
-        "message": "Add separately attributed county income and age source comparison (#49)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-26T21:36:58Z"
         }
       }
     }
