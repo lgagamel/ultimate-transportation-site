@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T11:01:43.344312+00:00",
+  "generated_at": "2026-10-27T12:09:33.096893+00:00",
   "repository_url": "https://github.com/lgagamel/ultimate-transportation-data",
   "availability": {
     "commits": true,
     "development_runs": true
   },
   "commits": [
+    {
+      "sha": "1a258bfe35e88d61fa8261487604da92785d512c",
+      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/1a258bfe35e88d61fa8261487604da92785d512c",
+      "commit": {
+        "message": "Add complete trailing-twelve-month road comparisons (#66)",
+        "author": {
+          "name": "Hyeonsup Lim",
+          "date": "2026-10-27T12:08:02Z"
+        }
+      }
+    },
     {
       "sha": "2c26e6929618f2c8be714b40dec9171d183b69c4",
       "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/2c26e6929618f2c8be714b40dec9171d183b69c4",
@@ -47,17 +58,6 @@
         "author": {
           "name": "Hyeonsup Lim",
           "date": "2026-10-27T07:25:37Z"
-        }
-      }
-    },
-    {
-      "sha": "598759badcadc7ff0597cba6ab8a0f25403baff6",
-      "html_url": "https://github.com/lgagamel/ultimate-transportation-data/commit/598759badcadc7ff0597cba6ab8a0f25403baff6",
-      "commit": {
-        "message": "Add historical Washington tract household income archive (#61)",
-        "author": {
-          "name": "Hyeonsup Lim",
-          "date": "2026-10-27T06:27:40Z"
         }
       }
     }
